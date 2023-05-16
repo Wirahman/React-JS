@@ -1,0 +1,3 @@
+buat aplikasi baru = npx create-react-app "Nama Aplikasi"
+
+menjalankan aplikasi = npm run start
